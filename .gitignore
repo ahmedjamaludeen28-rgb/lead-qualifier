@@ -1,0 +1,5 @@
+.env
+leads_log.txt
+venv/
+__pycache__/
+.vscode/
